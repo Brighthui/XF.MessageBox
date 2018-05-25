@@ -1,8 +1,10 @@
-In Xamarin Forms application, we need popup message box like in Windows Desktop.
+In Xamarin Forms application, current Pop-ups or Alert messag (DisplayAlert) is too simple.
 
-Thanks Rg.Plugins.Popup (https://github.com/rotorgames/Rg.Plugins.Popup/blob/master/README.md) project for its popup ability, now we can build our popup message like below.
+We need popup message box like in Windows Desktop with icon signs and multiple returns, or even customizable.
 
-You can place your popup message call anywhere in your Xamarin Forms .Net Standard project, i.e, view models, view other any public class.
+Thanks Rg.Plugins.Popup (https://github.com/rotorgames/Rg.Plugins.Popup/blob/master/README.md) project for its popup ability, now we can build our popup message like below, which can also be customized to what ever you want.
+
+Most importantly you can place your popup message call anywhere in your Xamarin Forms .Net Standard project, i.e, view models, view  or other public class.
 
 A call can be simply like
 
