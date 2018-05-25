@@ -21,7 +21,7 @@ A call can be simply like
 
 Copy the PopupBox folder to your project and only fix the namespace (replace XF.MessageBox.PopupBox with your own namespace).
 
-Beware that copy icon files to your Android, IOS and UWP projects as well.
+Beware that copy icon files to your Android, IOS and UWP projects resource folder.
 
 Click 'Success Message' button will popup this box.
 
